@@ -2,6 +2,6 @@
 
 ## React component Navbar Menu
 
-![](./images/fullsize.png)
-![](./images/mobile.png)
-![](./images/mobile_active.png)
+![fullsize](./images/fullsize.png)
+![mobile](./images/mobile.png)
+![mobile active](./images/mobile_active.png)
